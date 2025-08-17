@@ -1,0 +1,26 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# VS Code
+/.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build
+/bin/
+/build/
+
+# Libraries
+/lib/
+
+# Others
+*.swp
+*.swo
